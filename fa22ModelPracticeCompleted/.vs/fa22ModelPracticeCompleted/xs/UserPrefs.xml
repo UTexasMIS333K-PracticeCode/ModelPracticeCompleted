@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{59EBF703-3579-4638-A29A-193BC8303610}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="fa22ModelPracticeCompleted/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="fa22ModelPracticeCompleted/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="fa22ModelPracticeCompleted/fa22ModelPracticeCompleted.csproj" Line="4" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fa22ModelPracticeCompleted" expanded="True">
+            <Node name="fa22ModelPracticeCompleted" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.fa22ModelPracticeCompleted PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

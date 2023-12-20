@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "fa22ModelPracticeCompleted/1.0.0": {
+        "runtime": {
+          "fa22ModelPracticeCompleted.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fa22ModelPracticeCompleted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
